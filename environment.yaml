@@ -1,0 +1,4 @@
+dependencies:
+  - pydantic
+  - pyright
+  - python>=3.9
